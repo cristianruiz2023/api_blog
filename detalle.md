@@ -1,0 +1,9 @@
+
+DEBUG=True
+SECRET_KEY=?????
+ALLOWED_HOSTS=127.0.0.1,localhost
+MYSQL_DBNAME=????? ej=my_db_blog
+MYSQL_USER=????? ej=pepito
+MYSQL_PASSWORD=????? ej=123456
+MYSQL_HOST=localhost
+MYSQL_PORT=3306
