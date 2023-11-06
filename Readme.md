@@ -30,3 +30,15 @@ Activación en Windows
 ## Test
 - descargar el archivo insomnia_test.json (se encuentra dentro del directoriotest/insomnia)
 - importa el archivo dentro de insomnia en el directorio test
+
+
+
+![test users](tests/users.png)
+
+![test category](tests/categories.png)
+
+![test posts](tests/posts.png)
+
+![test comments](tests/comments.png)
+
+
